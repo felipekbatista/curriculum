@@ -70,6 +70,10 @@ Início da carreira profissional como estagiário de engenharia química
   - regressão linear e logística
   - scikit image
   - computer vision 2 cv2
+
+- Ruby
+  - Rails
+
 - MySQL
 
 - Git/Github
