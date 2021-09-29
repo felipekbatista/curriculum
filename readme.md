@@ -71,6 +71,9 @@ Início da carreira profissional como estagiário de engenharia química
   - scikit image
   - computer vision 2 cv2
   
+- Ruby
+  - Rails
+
 - MySQL
 
 - PostgreSQL
