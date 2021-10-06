@@ -21,11 +21,14 @@ Início da carreira profissional como estagiário de engenharia química
 - Simulação computacional da produção de biodiesel por hidroesterificação [^1]
   - Aspen plus 
   - 2020 - atual
+  - Apresentação na Semana da Engenharia Química 2021 - UNESP
+  	- 1º lugar
 
 - Tratamento biológico de subproduto gerado na produção de proteína concentrada de soja em Reator Compartimentado Anaeróbio/Aeróbio [^2]
   - Análise e acompanhamento de indicadores
   - Atividades laboratoriais 
   - Apresentação do projeto na SEQ 2019 
+
 - Tratamento de resíduo agroindustrial (glicerol e melaço de soja) em reator de leito fixo anaeróbio e pós tratamento aeróbio [^3]
   - Análise e acompanhamento de indicadores
   - Atividades laboratoriais 
