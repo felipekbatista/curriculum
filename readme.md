@@ -128,7 +128,7 @@ Início da carreira profissional como estagiário
 
 - Atualmente resido em Araras mas aceito realizar mudanças para outras localidades, sem restrições.
 
-- O prazo de conclusão da minha graduação é passível de ser estendido conforme a necessidade
+- O prazo de conclusão da minha graduação é passível de ser prorrogado conforme a necessidade
 
 ## Referências
 
