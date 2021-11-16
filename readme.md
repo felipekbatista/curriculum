@@ -71,7 +71,9 @@ Início da carreira profissional como estagiário
   - regressão linear e logística
   - scikit image
   - computer vision 2 cv2
-  
+
+- Estatística
+
 - Ruby 
   - Rails
 
