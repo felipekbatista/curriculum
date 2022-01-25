@@ -65,9 +65,29 @@ Início da carreira profissional como estagiário
 ## Habilidades e Tecnologias
 
 - Python 
+<<<<<<< HEAD
   
 - Ruby on Rails
   
+=======
+  - pandas
+  - pyplot
+  - seaborn
+  - scipy.stats
+  - scikit-learn (classification, regression, clustering)
+  - statsmodels
+  - regressão linear e logística
+  - scikit image
+  - computer vision 2 cv2
+
+- Estatística
+
+- Ruby 
+  - Rails
+
+- MySQL
+
+>>>>>>> 3ebd04630345f216f5cb0714725f32291b0281bf
 - PostgreSQL
 
 - Git/Github
