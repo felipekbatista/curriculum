@@ -56,48 +56,18 @@ Início da carreira profissional como estagiário
 
 - Didático 
 - Facilidade em relacionamento interpessoal 
-  - trabalho em equipe 
 - Proativo
 - Prestativo
-
-- - 
 
 ## Habilidades e Tecnologias
 
 - Python 
-<<<<<<< HEAD
-  
 - Ruby on Rails
-  
-=======
-  - pandas
-  - pyplot
-  - seaborn
-  - scipy.stats
-  - scikit-learn (classification, regression, clustering)
-  - statsmodels
-  - regressão linear e logística
-  - scikit image
-  - computer vision 2 cv2
-
 - Estatística
-
-- Ruby 
-  - Rails
-
-- MySQL
-
->>>>>>> 3ebd04630345f216f5cb0714725f32291b0281bf
 - PostgreSQL
-
 - Git/Github
-
 - Aspen Plus
-
-- Estatística
-
 - Pacote Office (intermediário)
-
   - procv e procv invertido
   - se, e, ou
   - somase
@@ -114,10 +84,6 @@ Início da carreira profissional como estagiário
   ## Certificados
 
 - diversos cursos relacionados à tecnologia[^5]
-
-## Observações
-
-- Atualmente resido em Araras mas aceito realizar mudanças para outras localidades, sem restrições.
 
 ## Referências
 
