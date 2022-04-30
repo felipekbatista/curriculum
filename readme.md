@@ -13,7 +13,7 @@ Início da carreira profissional como estagiário
 - UNESP
   - Instituto de Química de Araraquara
 - 2017 - em andamento
-  - Data de conclusão flexível
+  - Em curso
 
 ### Engenharia de Petróleo 
 
@@ -27,7 +27,8 @@ Início da carreira profissional como estagiário
 
 - Simulação computacional da produção de biodiesel por hidroesterificação [^1] 
   - Aspen plus 
-  - 2020 - atual
+  - 2020 - 2021
+  - Bolsa PIBIC [^8]
   - Apresentação na Semana da Engenharia Química 2021 - UNESP [^6]
     - 1º lugar 
 
@@ -131,7 +132,7 @@ Início da carreira profissional como estagiário
 
 [^7]: trabalho publicado [aqui](https://www.brazilianjournals.com/index.php/BRJD/article/view/43147) 
 
-
+[^8]: certificado da bolsa pibic [aqui](https://www.)
 
 
 
